@@ -1,12 +1,12 @@
 {
   "Version": {
     "Major": 1,
-    "Minor": 0,
+    "Minor": 1,
     "Build": 0,
     "Revision": 0,
     "MajorRevision": 0,
     "MinorRevision": 0
   },
-  "Url": "",
-  "Changelog": ""
+  "Url": "Hello",
+  "Changelog": "Changed"
 }
